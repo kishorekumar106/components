@@ -1,0 +1,43 @@
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    margin-bottom: 30px;
+    
+}
+
+.card {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 20px;
+    width: 250px;
+}
+
+.card h2 {
+    font-size: 23px;
+    margin-bottom: 10px;
+    color: gray;
+}
+
+.card ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.card ul li {
+    margin: 5px 0;
+}
+
+.card p{
+    padding: 10px;
+}
+
+.head{
+    padding: 20px;
+    font-size: xx-large;
+}
+
+.card{
+    font-size: 18px;
+}
